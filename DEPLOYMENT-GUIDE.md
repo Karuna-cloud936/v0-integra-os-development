@@ -157,5 +157,5 @@ Create desktop shortcuts on user computers:
 This approach makes Integra OS easy to maintain and update, perfect for business environments where reliability and ease of updates are critical.
 \`\`\`
 
-```typescriptreact file="create-installer.js" isDeleted="true"
+\`\`\`typescriptreact file="create-installer.js" isDeleted="true"
 ...deleted...

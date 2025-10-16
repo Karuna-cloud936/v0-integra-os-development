@@ -95,5 +95,5 @@ This simplified approach:
 The distribution package runs a local web server and opens your browser automatically.
 \`\`\`
 
-```typescriptreact file="build-standalone.js" isDeleted="true"
+\`\`\`typescriptreact file="build-standalone.js" isDeleted="true"
 ...deleted...

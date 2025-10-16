@@ -25,5 +25,5 @@
 If devices can't connect, configure Windows Firewall:
 
 ### Method 1: Quick Command (Run as Administrator)
-```powershell
+\`\`\`powershell
 netsh advfirewall firewall add rule name="Integra OS" dir=in action=allow protocol=TCP localport=3001
